@@ -1,4 +1,4 @@
-# Machine-Learning-Stanford
+# -------- Machine-Learning-Stanford --------
 <img src = "https://raw.githubusercontent.com/lehoangan2906/Machine-Learning-Stanford/main/thumb.png">
 
 ---------------------------------------------------------------------------------------
